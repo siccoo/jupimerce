@@ -9,11 +9,11 @@ export default makeStyles({
         paddingTop: "56.29%",
     },
     content: {
-        display: flex,
+        display: "flex",
         justifyContent: "flex-end",
     },
     cardActions: {
-        display: flex,
+        display: "flex",
         justifyContent: "space-between"
     }
 });
